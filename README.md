@@ -1,1 +1,0 @@
-# practychba-3
