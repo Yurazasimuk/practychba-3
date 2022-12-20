@@ -1,11 +1,11 @@
-text = input("Напишіть Сово").lower()
+Totka = input("Totka Putaje tebe").lower()
 
-textL = len(text)
+TotkaL = len(totka)
 
-textList = list(text)
+TotkaList = list(totka)
 
-for i in range(0, textL):
-    if(textList[i] == "a"):
+for i in range(0, TotkaL):
+    if(TotkaList[i] == "a"):
         print('''  ### 
  #   #
  #   #
@@ -13,7 +13,7 @@ for i in range(0, textL):
  #   #
  #   #
  #   #\n''' )
-    elif(textList[i] == "b"):
+    elif(TotkaList[i] == "b"):
         print('''#### 
 #   #
 #   #
@@ -21,7 +21,7 @@ for i in range(0, textL):
 #   #
 #   #
 ####\n''' )
-    elif(textList[i] == "c"):
+    elif(TotkaList[i] == "c"):
         print(''' ### 
 #   #
 #  
@@ -29,7 +29,7 @@ for i in range(0, textL):
 #
 #   #
  ### \n''' )
-    elif(textList[i] == "d"):
+    elif(TotkaList[i] == "d"):
         print('''#### 
 #   #
 #   #
@@ -37,7 +37,7 @@ for i in range(0, textL):
 #   #
 #   #
 ####\n''' )
-    elif(textList[i] == "e"):
+    elif(TotkaList[i] == "e"):
         print('''#####
 #######
 #
@@ -45,7 +45,7 @@ for i in range(0, textL):
 #
 #
 ########\n''' )
-    elif(textList[i] == "f"):
+    elif(TotkaList[i] == "f"):
         print('''#####
 #
 #
@@ -53,7 +53,7 @@ for i in range(0, textL):
 #
 #
 #\n''' )
-    elif(textList[i] == "g"):
+    elif(TotkaList[i] == "g"):
         print(''' ###
 #   #
 #
@@ -61,7 +61,7 @@ for i in range(0, textL):
 #   #
 #   #
  ###\n''' )
-    elif(textList[i] == "h"):
+    elif(TotkaList[i] == "h"):
         print('''#   #
 #   #
 #   #
@@ -70,7 +70,7 @@ for i in range(0, textL):
 #   #
 #   #
 #   #\n''' )
-    elif(textList[i] == "i"):
+    elif(TotkaList[i] == "i"):
         print('''###
 #
 #
@@ -78,7 +78,7 @@ for i in range(0, textL):
 #
 #
 ###\n''' )
-    elif(textList[i] == "j"):
+    elif(TotkaList[i] == "j"):
         print('''###
  #
  #
@@ -86,7 +86,7 @@ for i in range(0, textL):
  #
  #
 ##\n''')
-    elif(textList[i] == "k"):
+    elif(TotkaList[i] == "k"):
         print('''#   #
 #  #
 # #
@@ -94,7 +94,7 @@ for i in range(0, textL):
 # #
 #  #
 #   #\n''' )
-    elif(textList[i] == "l"):
+    elif(TotkaList[i] == "l"):
         print('''#
 #
 #
@@ -102,7 +102,7 @@ for i in range(0, textL):
 #
 #
 #####\n''')
-    elif(textList[i] == "m"):
+    elif(TotkaList[i] == "m"):
         print('''#   #
 #   #
 ## ##
@@ -110,7 +110,7 @@ for i in range(0, textL):
 #   #
 #   #
 #   #\n''' )
-    elif(textList[i] == "n"):
+    elif(TotkaList[i] == "n"):
         print('''#   #
 #   #
 ##  #
@@ -118,7 +118,7 @@ for i in range(0, textL):
 #  ##
 #   #
 #   #\n''' )
-    elif(textList[i] == "o"):
+    elif(TotkaList[i] == "o"):
         print(''' ### 
 #   #
 #   #
@@ -126,7 +126,7 @@ for i in range(0, textL):
 #   #
 #   #
  ###\n''' )
-    elif(textList[i] == "p"):
+    elif(TotkaList[i] == "p"):
         print('''####
 #   #
 #   #
@@ -134,7 +134,7 @@ for i in range(0, textL):
 #
 #
 #\n''' )
-    elif(textList[i] == "q"):
+    elif(TotkaList[i] == "q"):
         print('''  ### 
 #   #
 #   #
@@ -143,7 +143,7 @@ for i in range(0, textL):
 #   #
 #  # 
  ## #\n''' )
-    elif(textList[i] == "r"):
+    elif(TotkaList[i] == "r"):
         print('''#### 
 #   #
 #   #
@@ -151,7 +151,7 @@ for i in range(0, textL):
 # #
 #  
 #   #\n''' )
-    elif(textList[i] == "s"):
+    elif(TotkaList[i] == "s"):
         print(''' ####
 #
 #
@@ -159,7 +159,7 @@ for i in range(0, textL):
     #
     #
  ###\n''' )
-    elif(textList[i] == "t"):
+    elif(TotkaList[i] == "t"):
         print('''#####
   #
   #
@@ -167,7 +167,7 @@ for i in range(0, textL):
   #
   #
   #\n''' )
-    elif(textList[i] == "u"):
+    elif(TotkaList[i] == "u"):
         print('''#   #
 #   #
 #   #
@@ -176,7 +176,7 @@ for i in range(0, textL):
 #   #
  # #
   #\n''' )
-    elif(textList[i] == "v"):
+    elif(TotkaList[i] == "v"):
         print('''#   #
 #   #
 #   #
@@ -185,7 +185,7 @@ for i in range(0, textL):
 #   #
  # #
   #\n''' )
-    elif(textList[i] == "w"):
+    elif(TotkaList[i] == "w"):
         print('''#   #
 #   #
 #   #
@@ -193,7 +193,7 @@ for i in range(0, textL):
 ## ##
 #   #
 #   #\n''' )
-    elif(textList[i] == "x"):
+    elif(TotkaList[i] == "x"):
         print('''#   #
 #   #
  # #
@@ -201,7 +201,7 @@ for i in range(0, textL):
  # #
 #   #
 #   #\n''' )
-    elif(textList[i] == "y"):
+    elif(TotkaList[i] == "y"):
         print('''#   #
 #   #
  # #
@@ -209,7 +209,7 @@ for i in range(0, textL):
   #
   #
   #\n''' )
-    elif(textList[i] == "z"):
+    elif(TotkaList[i] == "z"):
         print('''#####
     #
    #
