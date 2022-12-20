@@ -1,8 +1,8 @@
-text = input("slovo").lower()
+Vujko = input("Vujko pytaje tebe").lower()
 
-textL = len(text)
+VujkoL = len(text)
 
-textList = list(text)
+VujkoList = list(text)
 
 def a():
     print('''  ### 
@@ -217,56 +217,56 @@ def z():
 #
 ##### \n''' )
 
-for i in range(0, textL):
-  if(textList[i] == "a"):
+for i in range(0, VujkoL):
+  if(VujkoList[i] == "a"):
         a()
-  elif(textList[i] == "b"):
+  elif(VujkoList[i] == "b"):
         b()
-  elif(textList[i] == "c"):
+  elif(VujkoList[i] == "c"):
         c()
-  elif(textList[i] == "d"):
+  elif(VujkoList[i] == "d"):
         d()
-  elif(textList[i] == "e"):
+  elif(VujkoList[i] == "e"):
         e()
-  elif(textList[i] == "f"):
+  elif(VujkoList[i] == "f"):
         f()
-  elif(textList[i] == "g"):
+  elif(VujkoList[i] == "g"):
         g()
-  elif(textList[i] == "h"):
+  elif(VujkoList[i] == "h"):
         h()
-  elif(textList[i] == "i"):
+  elif(VujkoList[i] == "i"):
         i()
-  elif(textList[i] == "j"):
+  elif(VujkoList[i] == "j"):
         j()
-  elif(textList[i] == "k"):
+  elif(VujkoList[i] == "k"):
         k()
-  elif(textList[i] == "l"):
+  elif(VujkoList[i] == "l"):
         l()
-  elif(textList[i] == "m"):
+  elif(VujkoList[i] == "m"):
         m()
-  elif(textList[i] == "n"):
+  elif(VujkoList[i] == "n"):
         n()
-  elif(textList[i] == "o"):
+  elif(VujkoList[i] == "o"):
         o()
-  elif(textList[i] == "p"):
+  elif(VujkoList[i] == "p"):
         p()
-  elif(textList[i] == "q"):
+  elif(VujkoList[i] == "q"):
         q()
-  elif(textList[i] == "r"):
+  elif(VujkoList[i] == "r"):
         r()
-  elif(textList[i] == "s"):
+  elif(VujkoList[i] == "s"):
         s()
-  elif(textList[i] == "t"):
+  elif(VujkoList[i] == "t"):
         t()
-  elif(textList[i] == "u"):
+  elif(VujkoList[i] == "u"):
         u()
-  elif(textList[i] == "v"):
+  elif(VujkoList[i] == "v"):
         v()
-  elif(textList[i] == "w"):
+  elif(VujkoList[i] == "w"):
         w()
-  elif(textList[i] == "x"):
+  elif(VujkoList[i] == "x"):
         x()
-  elif(textList[i] == "y"):
+  elif(VujkoList[i] == "y"):
         y()
-  elif(textList[i] == "z"):
+  elif(VujkoList[i] == "z"):
         z()
