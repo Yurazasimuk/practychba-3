@@ -1,8 +1,8 @@
 Vujko = input("Vujko pytaje tebe").lower()
 
-VujkoL = len(text)
+VujkoL = len(Vujko)
 
-VujkoList = list(text)
+VujkoList = list(Vujko)
 
 def a():
     print('''  ### 
